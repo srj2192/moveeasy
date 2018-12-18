@@ -3,6 +3,8 @@ Address Management Service Demo
 
 This demo contains 2 REST URL's to add new address and fetch existing address
 
+After Coloning the project, exec command "python moveesy_service/manage.py migrate"
+
 FETCH ADDRESS -
 
 Get Address URL (GET Request):-
